@@ -1,0 +1,30 @@
+{
+    "token": "",
+    "delay": 5,
+    "statuses": [
+        {
+            "status": "Join 1800",
+            "emoji_id": "",
+            "emoji_name": ":poop:",
+            "nitro_emoji": false
+        },
+        {
+            "status": "https://discord.gg/C7QRMwP3",
+            "emoji_id": "",
+            "emoji_name": ":poop:",
+            "nitro_emoji": false
+        },
+        {
+            "status": "Join 1800",
+            "emoji_id": "",
+            "emoji_name": ":poop:",
+            "nitro_emoji": false
+        },
+        {
+            "status": "https://discord.gg/C7QRMwP3",
+            "emoji_id": "",
+            "emoji_name": ":poop:",
+            "nitro_emoji": false
+        }
+    ]
+}
