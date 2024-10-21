@@ -1,0 +1,1 @@
+![my-INPUT TOKEN IN CONFIG JSON AND CONFIGURE STATUS TO YOUR LIKING _)](https://github.com/user-attachments/assets/31e46566-8554-4e76-bc47-5123f12a5583)
